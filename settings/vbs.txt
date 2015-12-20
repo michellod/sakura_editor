@@ -1,4 +1,0 @@
-Scripting.FileSystemObject
-VBScript.RegExp
-ADODB.RecordSet
-ADODB.Connection
