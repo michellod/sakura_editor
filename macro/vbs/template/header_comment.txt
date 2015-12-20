@@ -1,0 +1,15 @@
+'###################################################################################################
+'# Visual Basic Script                                                                             #
+'# LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL #
+'#                                                                                                 #
+'# System      : My Information Technology System                                                  #
+'# Application : My Application                                                                    #
+'# Module      : My Module                                                                         #
+'# Description                                                                                     #
+'#  This is detailed description.                                                                  #
+'#                                                                                                 #
+'# History                                                                                         #
+'# Date         Version Company         Author          Description                                #
+'# ------------+-------+---------------+---------------+------------------------------------------ #
+'# DD-MMM-YYYY  1.00    __SHORT_NAME__  __AUTHOR__      New created.          .                    #
+'###################################################################################################
