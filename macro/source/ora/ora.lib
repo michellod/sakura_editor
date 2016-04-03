@@ -1,0 +1,7 @@
+SRC=ora\module\Ora_Init.vbs
+SRC=ora\class\Ora.vbs
+SRC=ora\class\Ora_Column.vbs
+SRC=ora\class\Ora_DBA.vbs
+SRC=ora\class\Ora_Command.vbs
+SRC=ora\class\Ora_SQLCommand.vbs
+SRC=ora\class\Ora_SQLInsCommand.vbs

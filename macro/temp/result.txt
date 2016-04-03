@@ -1,0 +1,82 @@
+[2016/04/03 19:07:02] Load libraries...
+ C:\Program Files (x86)\sakura\macro\source\sys\sys.lib
+  C:\Program Files (x86)\sakura\macro\source\sys\class\Sys_Global.vbs
+  C:\Program Files (x86)\sakura\macro\source\sys\class\Sys_ProcessEnvironment.vbs
+  C:\Program Files (x86)\sakura\macro\source\sys\class\Sys_SystemEnvironment.vbs
+  C:\Program Files (x86)\sakura\macro\source\sys\class\Sys_UserEnvironment.vbs
+  C:\Program Files (x86)\sakura\macro\source\sys\class\Sys_VolatileEnvironment.vbs
+  C:\Program Files (x86)\sakura\macro\source\sys\class\Sys_MessageAPI.vbs
+  C:\Program Files (x86)\sakura\macro\source\sys\class\Sys_WindowsManagementInstrumentation.vbs
+  C:\Program Files (x86)\sakura\macro\source\sys\module\Sys_Init.vbs
+ C:\Program Files (x86)\sakura\macro\source\vbs\vbs.lib
+  C:\Program Files (x86)\sakura\macro\source\vbs\class\Vbs.vbs
+  C:\Program Files (x86)\sakura\macro\source\vbs\class\Vbs_Locale.vbs
+ C:\Program Files (x86)\sakura\macro\source\ora\ora.lib
+  C:\Program Files (x86)\sakura\macro\source\ora\module\Ora_Init.vbs
+  C:\Program Files (x86)\sakura\macro\source\ora\class\Ora.vbs
+  C:\Program Files (x86)\sakura\macro\source\ora\class\Ora_Column.vbs
+  C:\Program Files (x86)\sakura\macro\source\ora\class\Ora_DBA.vbs
+  C:\Program Files (x86)\sakura\macro\source\ora\class\Ora_Command.vbs
+  C:\Program Files (x86)\sakura\macro\source\ora\class\Ora_SQLCommand.vbs
+  C:\Program Files (x86)\sakura\macro\source\ora\class\Ora_SQLInsCommand.vbs
+<BIOS>
+  Type          : 3.11.1150
+  Manufacturer  : American Megatrends Inc.
+  Serial Number : 031932350553
+  Version       : 3.11.1150
+<CPU>
+  Type                : Intel64 Family 6 Model 69 Stepping 1
+  Name                : Intel(R) Core(TM) i3-4020Y CPU @ 1.50GHz
+  Manufacturer        : GenuineIntel
+  Current Clock Speed : 1500
+  Max Clock Speed     : 1501
+  L2 Cache Size       : 512
+<Motherboard>
+  Manufacturer : Microsoft Corporation
+  Product      : Surface Pro 3
+  Version      : 1
+<Operating System>
+  Boot Drive   : \Device\HarddiskVolume2
+  Caption      : Microsoft Windows 8.1 Pro
+  Version      : 6.3.9600
+  Build Number : 9600
+  Architecture : 64 ƒrƒbƒg
+  Install Date : 20150316201045.000000+540
+  Last Boot Up : 20160323195252.496415+540
+<Paging File>
+  Location     : 
+  Initial Size : 
+  Max Size     : 
+<Physical Memory>
+  0. Bank Label : BANK 0
+     Capacity   : 2147483648
+  1. Bank Label : BANK 2
+     Capacity   : 2147483648
+<Cache Memory>
+  0. Purpose        : CPU Internal L1
+     Installed Size : 128
+  1. Purpose        : CPU Internal L2
+     Installed Size : 512
+  2. Purpose        : CPU Internal L3
+     Installed Size : 3072
+<Computer System>
+  User Name              : reusvaud\REUSVAUD\michelloid
+  Domain Role            : Standalone Workstation
+  Total Physical Memory  : 4195426304
+<Computer System Product>
+  Computer Name : Surface Pro 3
+  Serial Number : 031932350553
+  SKU Number    : 
+  Vendor        : Microsoft Corporation
+  Version       : 1
+<On Board Device>
+<Network Login Profiles>
+  0. Description      : NT AUTHORITY\SYSTEM
+     Last Logon       : 
+     Number of Logons : 
+  1. Description      : REUSVAUD\michelloid
+     Last Logon       : 20150316233835.000000+540
+     Number of Logons : 8
+<Profile>
+  Execute Date : 2016/04/03 19:07:02
+  Language     : JA

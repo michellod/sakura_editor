@@ -1,0 +1,8 @@
+SRC=sys\class\Sys_Global.vbs
+SRC=sys\class\Sys_ProcessEnvironment.vbs
+SRC=sys\class\Sys_SystemEnvironment.vbs
+SRC=sys\class\Sys_UserEnvironment.vbs
+SRC=sys\class\Sys_VolatileEnvironment.vbs
+SRC=sys\class\Sys_MessageAPI.vbs
+SRC=sys\class\Sys_WindowsManagementInstrumentation.vbs
+SRC=sys\module\Sys_Init.vbs
